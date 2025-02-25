@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+Desafio2/*.png
 
 # Distribution / packaging
 .Python
