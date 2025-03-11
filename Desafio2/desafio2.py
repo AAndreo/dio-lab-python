@@ -91,8 +91,6 @@ def criar_conta(AGENCIA:str, contas: dict, usuarios:dict) -> dict:
 
         return contas
 
-    pass
-
 def listar_contas(contas:dict) -> None:
 
     for chave, valor in contas.items():
